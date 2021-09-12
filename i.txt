@@ -1,0 +1,10 @@
+//dfkmfm
+START 1000
+MOV A, #5
+//ghfhbh
+BYTE NUM #2
+ADD NUM, #4
+JUMP L2
+MOV C, #0
+L2: MOV NUM, C
+END
